@@ -19,7 +19,7 @@
 
 xoops_loadLanguage('modinfo_common', 'tadtools');
 
-define('_MI_JILLRECEIP_NAME','Fill in receipt of receipt');
+define('_MI_JILLRECEIP_NAME','Jill Receipt');
 define('_MI_JILLRECEIP_AUTHOR','jill Lee');
 define('_MI_JILLRECEIP_CREDITS','');
 define('_MI_JILLRECEIP_DESC','The purpose of this module is to provide the cashier group to make a payment and delay platform to receive receipts');
