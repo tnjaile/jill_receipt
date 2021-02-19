@@ -1,0 +1,13 @@
+jill_receipt 1.3 (released on 2020-09-22)
+  =================================================
+  1. New architecture
+jill_receipt 1.2 (released on 2020-03-13)
+  =================================================
+  1. Accessibility
+jill_receipt 1.1 (released on 2017-12-01)
+  =================================================
+  1. Add to set the receipt manager EMAIL in the background/preferences
+  2. The front desk separates individual reporting and review
+jill_receipt 1.0 (released on 2017-11-03)
+  =================================================
+  1. Officially released
